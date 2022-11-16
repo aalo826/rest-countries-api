@@ -1,0 +1,17 @@
+// Font
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+
+// Setup
+@import "./partials/setup";
+
+// Basic Styling
+@import "./partials/variables";
+@import "./partials/baseStyles";
+@import "./partials/typography";
+
+// Body Styling
+@import "./partials/navbar";
+@import "./partials/header";
+
+@import "./partials/footer";
+@import "./partials/mediaQueries"
